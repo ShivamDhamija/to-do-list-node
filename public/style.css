@@ -1,0 +1,42 @@
+::placeholder {
+    color: re0e0e0;
+  }
+  #div1
+  {
+    padding:10px;
+    float: left;
+    width: 50%;
+    background-color:#e0e0e0;
+  }
+  #div2
+  {
+     padding:20px;
+     float: right;
+     width: 50%;
+  }
+  #ip
+  {
+    padding:10px;
+    border-style:hidden;
+    border-left: 1px solid Gray;
+  }
+  #div3{
+     padding:10px;
+    border-bottom: 0.5px solid Gray;
+    position:relative;
+  }
+  #del
+  { 
+    position: absolute;
+      
+  right:0;
+  background-color:#e0e0e0;
+  border:none;
+  }
+  #tick
+  {
+   position: absolute;
+      
+   right:12%;
+   background-color:#e0e0e0;
+  }  
